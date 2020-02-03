@@ -1,6 +1,11 @@
 ## Erin O'Neill
 ### Copyright 2020 erinkate@bu.edu
 
+
+## User Story 
+
+I am an avaition passenger and I would like to input my two airport codes of my flight (ex. BOS, MCO) to see the forecast for the next 24 hours at my origin and destination airports. 
+
 # APIs
 Objective of this exercise is to learn APIs. 
 You are expected to: 
